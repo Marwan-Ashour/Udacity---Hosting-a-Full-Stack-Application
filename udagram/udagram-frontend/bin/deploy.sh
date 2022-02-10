@@ -1,0 +1,1 @@
+aws cp --recursive --acl public-read ./www s3://marwan-udagram/
