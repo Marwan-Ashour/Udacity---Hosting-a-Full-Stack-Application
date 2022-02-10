@@ -9,7 +9,8 @@ jobs:
     docker:
       - image: "cimg/base:stable"
     steps:
-      - node/install@16.13.0.
+      - node/install:
+      node-version:16.13.0.
       - checkout
       - aws-cli/setup
       - eb/setup
