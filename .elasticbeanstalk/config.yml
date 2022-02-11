@@ -4,12 +4,12 @@ branch-defaults:
 environment-defaults:
   Udagramapi-env:
     branch: master
-    repository: udagram-api
+    repository: Udacity---Hosting-a-Full-Stack-Application
 global:
   application_name: udagram-api
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
-  default_region: us-west-2
+  default_region: us-east-1
   include_git_submodules: true
   instance_profile: null
   platform_name: null
