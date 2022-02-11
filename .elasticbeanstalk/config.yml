@@ -17,5 +17,5 @@ global:
   profile: default
   sc: git
   workspace_type: Application
-deploy:
+deploy: 
   artifact: www/Archive.zip
