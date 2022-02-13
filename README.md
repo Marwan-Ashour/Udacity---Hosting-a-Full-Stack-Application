@@ -12,3 +12,14 @@ The project will also include writing documentation covering the operations of t
 ### Access Website
 
 * Use this link: http://marwan-udagram.s3-website.us-east-2.amazonaws.com to access the website.
+
+### Hosting
+
+* This website is being hosted on AWS.
+* Elastic Beanstalk is used for the Backend API.
+* S3 bucket for the frontend and uploaded images.
+* RDS database running Postgres.
+
+
+![infrastructure diagram](https://user-images.githubusercontent.com/92494162/153777567-168542b9-642d-445a-887a-a6e2be42c3e3.png)
+
