@@ -23,3 +23,10 @@ The project will also include writing documentation covering the operations of t
 
 ![infrastructure diagram](https://user-images.githubusercontent.com/92494162/153777567-168542b9-642d-445a-887a-a6e2be42c3e3.png)
 
+### CI/CD pipeline
+* The CircleCi is linked to the project on Github.
+* It is used to automatically deploy the website to the AWS.
+* It is set to automatically execute once the code is being pushed into the master Github project.
+
+![pipeline chart](https://user-images.githubusercontent.com/92494162/153777618-7a5d37fe-8d97-4ea9-9079-3dc88608d748.png)
+
