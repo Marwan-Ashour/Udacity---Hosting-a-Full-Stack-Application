@@ -1,6 +1,6 @@
 # Hosting a Full-Stack Application
 
-* [![Marwan-Ashour](https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application.svg?style=svg]
+* Pipeline Status (main Branch): [![Marwan-Ashour](https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application.svg?style=svg]
 (https://app.circleci.com/pipelines/github/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application/48/workflows/e6de1843-cf6a-47a1-8eff-47189326776f/jobs/57)
 
 
