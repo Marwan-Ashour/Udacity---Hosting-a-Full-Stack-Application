@@ -1,7 +1,7 @@
 # Hosting a Full-Stack Application
 
-* [![CircleCI](https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application.svg?style=svg]
-(https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application)
+* [![Marwan-Ashour](https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application.svg?style=svg]
+(https://app.circleci.com/pipelines/github/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application/46/workflows/beb9ef27-3981-44c8-8d94-070bb92ecb41)
 
 
 
@@ -34,7 +34,6 @@ The project will also include writing documentation covering the operations of t
 
 ![pipeline chart](https://user-images.githubusercontent.com/92494162/153777618-7a5d37fe-8d97-4ea9-9079-3dc88608d748.png)
 
-* [![CircleCI](https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application.svg?style=svg]
-(https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application)
+
 
 
