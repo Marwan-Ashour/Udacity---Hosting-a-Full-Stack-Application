@@ -43,4 +43,13 @@ jobs:
           command: |
             npm run frontend:deploy
 
+      workflow:
+  udagram:                    
+    jobs:
+      - build:  
+          filters:
+            branches:
+               only:                
+                  - master
+
             

@@ -30,3 +30,7 @@ The project will also include writing documentation covering the operations of t
 
 ![pipeline chart](https://user-images.githubusercontent.com/92494162/153777618-7a5d37fe-8d97-4ea9-9079-3dc88608d748.png)
 
+* [![CircleCI](https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application.svg?style=svg]
+(https://circleci.com/gh/Marwan-Ashour/Udacity---Hosting-a-Full-Stack-Application)
+
+
